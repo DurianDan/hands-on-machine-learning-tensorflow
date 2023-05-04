@@ -1,3 +1,6 @@
-handson-ml3/
+handson-ml3
 test.py
 test.ipynb
+*.arrow
+*.feather
+__pycache__/
