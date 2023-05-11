@@ -3,4 +3,5 @@ test.py
 test.ipynb
 *.arrow
 *.feather
+*.npz
 __pycache__/
